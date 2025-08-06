@@ -27,3 +27,7 @@ Aplicação web interativa que utiliza a inteligência artificial Gemini, do Goo
 - Gerar uma chave da API Gemini através do link (https://ai.google.dev/gemini-api/docs?hl=pt-br)
 - Rode localmente o projeto com sua chave API Gemini
 - Importante deixar claro que este projeto foi feito com a versão Gemini 2.5-flash
+
+## Acesse o site
+
+Você pode ver o site publicado aqui: [👉 IA para Games](https://ramonkerber.github.io/ia-gemini-games/)
